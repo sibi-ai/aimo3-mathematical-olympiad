@@ -1,0 +1,10 @@
+# AIMO3 — AI Mathematical Olympiad Progress Prize 3
+# Author: Haseeb Ahmad | kaggle.com/hasib007
+# Note: vllm + openai_harmony installed from offline wheels on Kaggle
+
+vllm>=0.4.0
+openai>=1.30.0
+jupyter_client>=8.6.0
+transformers>=4.40.0
+polars>=0.20.0
+pandas>=2.2.0
