@@ -1,7 +1,7 @@
 # AIMO3 — AI Mathematical Olympiad Progress Prize 3
 
 > **Competition:** [AI Mathematical Olympiad Progress Prize 3](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3) (Kaggle, April 2026)
-> **Result:** 🥉 **Bronze Medal** | **42 / 50** correct answers
+> **Result:** | **42 / 50** correct answers
 > **Model:** GPT-OSS-120B on single H100 GPU
 > **Author:** Haseeb Ahmad | [kaggle.com/hasib007](https://kaggle.com/hasib007)
 
